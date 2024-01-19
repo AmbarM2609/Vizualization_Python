@@ -16,8 +16,7 @@ Welcome to my Python Visualization Repository! 🚀 As a budding enthusiast in D
 
 ### Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-viz-repo.git
-   cd python-viz-repo
+https://github.com/AmbarM2609/Vizualization_Python.git
    ```
 
 ### Explore the Notebooks:
